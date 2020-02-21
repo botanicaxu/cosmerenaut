@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-02-21T14:08:39.089Z</updated>
+    <updated>2020-02-21T14:41:20.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -11,11 +11,22 @@
     <icon>https://botanicaxu.github.io/cosmerenaut/favicon.ico</icon>
     <rights>All rights reserved 2020, 三界宙旅者</rights>
     <entry>
+        <title type="html"><![CDATA[【情报】漫画《黑暗之主》免费漫画日特报]]></title>
+        <id>https://botanicaxu.github.io/cosmerenaut/post/qing-bao-man-hua-lesslesshei-an-zhi-zhu-greatergreater-mian-fei-man-hua-ri-te-bao/</id>
+        <link href="https://botanicaxu.github.io/cosmerenaut/post/qing-bao-man-hua-lesslesshei-an-zhi-zhu-greatergreater-mian-fei-man-hua-ri-te-bao/">
+        </link>
+        <updated>2020-02-21T14:17:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>由Vault Comics出品，布兰登·桑德森原作的奇幻漫画《黑暗之主》（Dark One）将在八月推出第一卷，日前公布了免费漫画日特刊的预览，序章名为“城市之心”（The Heart of the City）。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>由Vault Comics出品，布兰登·桑德森原作的奇幻漫画《黑暗之主》（Dark One）将在八月推出第一卷，日前公布了免费漫画日特刊的预览，序章名为“城市之心”（The Heart of the City）。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://botanicaxu.github.io/cosmerenaut/post/about/</id>
         <link href="https://botanicaxu.github.io/cosmerenaut/post/about/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
+        <updated>2020-02-21T14:15:55.000Z</updated>
         <summary type="html"><![CDATA[<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
