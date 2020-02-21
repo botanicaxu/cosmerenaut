@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-02-21T12:57:33.784Z</updated>
+    <updated>2020-02-21T13:47:40.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -16,15 +16,9 @@
         <link href="https://botanicaxu.github.io/cosmerenaut/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>We are Cosmerenauts among the Stars!</p>
-</blockquote>
-<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
+        <summary type="html"><![CDATA[<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>We are Cosmerenauts among the Stars!</p>
-</blockquote>
-<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
+        <content type="html"><![CDATA[<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
 ]]></content>
     </entry>
 </feed>
