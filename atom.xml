@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-02-22T08:09:07.546Z</updated>
+    <updated>2020-02-22T08:13:07.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -22,6 +22,19 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[旅者指南]]></title>
+        <id>https://botanicaxu.github.io/cosmerenaut/post/guide/</id>
+        <link href="https://botanicaxu.github.io/cosmerenaut/post/guide/">
+        </link>
+        <updated>2020-01-31T16:00:01.000Z</updated>
+        <summary type="html"><![CDATA[<h4 id="星河中的旅者欢迎来到三界宙尽头的餐馆小坐">星河中的旅者，欢迎来到三界宙尽头的餐馆小坐！</h4>
+<p>你将通过这个中转站去往下一个目的地，继续探索布兰登·桑德森的异想世界。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h4 id="星河中的旅者欢迎来到三界宙尽头的餐馆小坐">星河中的旅者，欢迎来到三界宙尽头的餐馆小坐！</h4>
+<p>你将通过这个中转站去往下一个目的地，继续探索布兰登·桑德森的异想世界。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://botanicaxu.github.io/cosmerenaut/post/about/</id>
         <link href="https://botanicaxu.github.io/cosmerenaut/post/about/">
@@ -30,19 +43,6 @@
         <summary type="html"><![CDATA[<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>三界宙旅者（Cosmerenaut）是华语地区最为活跃的布兰登·桑德森书迷组织之一，成立于2015年1月9日。本站依托于该组织，致力于发布和汇总各类中文情报。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅者指南]]></title>
-        <id>https://botanicaxu.github.io/cosmerenaut/post/guide/</id>
-        <link href="https://botanicaxu.github.io/cosmerenaut/post/guide/">
-        </link>
-        <updated>2020-01-31T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<h4 id="星河中的旅者欢迎来到三界宙尽头的餐馆小坐">星河中的旅者，欢迎来到三界宙尽头的餐馆小坐！</h4>
-<p>你将通过这个中转站去往下一个目的地，继续探索布兰登·桑德森的异想世界。</p>
-]]></summary>
-        <content type="html"><![CDATA[<h4 id="星河中的旅者欢迎来到三界宙尽头的餐馆小坐">星河中的旅者，欢迎来到三界宙尽头的餐馆小坐！</h4>
-<p>你将通过这个中转站去往下一个目的地，继续探索布兰登·桑德森的异想世界。</p>
 ]]></content>
     </entry>
 </feed>
