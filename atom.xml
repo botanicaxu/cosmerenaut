@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-02-23T06:52:25.927Z</updated>
+    <updated>2020-02-23T06:52:49.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -38,6 +38,10 @@
         <link href="https://botanicaxu.github.io/cosmerenaut/post/brandon-sanderson/">
         </link>
         <updated>2020-02-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>布兰登·桑德森历来笔耕不辍，他的作品已被翻译成二十多种语言，在全球三十多个国家和地区发行，销量已突破千万大关。他在2003年售出首作，如今已成全球读者津津乐道的对象，被誉为“业界一流”（《福布斯》杂志）和“史诗奇幻大手”（《出版人周刊》）。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>布兰登·桑德森历来笔耕不辍，他的作品已被翻译成二十多种语言，在全球三十多个国家和地区发行，销量已突破千万大关。他在2003年售出首作，如今已成全球读者津津乐道的对象，被誉为“业界一流”（《福布斯》杂志）和“史诗奇幻大手”（《出版人周刊》）。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[旅者指南]]></title>
