@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-02-28T12:30:57.955Z</updated>
+    <updated>2020-02-28T13:05:59.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -10,6 +10,63 @@
     <logo>https://botanicaxu.github.io/cosmerenaut/images/avatar.png</logo>
     <icon>https://botanicaxu.github.io/cosmerenaut/favicon.ico</icon>
     <rights>All rights reserved 2020, 三界宙旅者</rights>
+    <entry>
+        <title type="html"><![CDATA[布兰登·桑德森的入坑建议]]></title>
+        <id>https://botanicaxu.github.io/cosmerenaut/post/start-point/</id>
+        <link href="https://botanicaxu.github.io/cosmerenaut/post/start-point/">
+        </link>
+        <updated>2020-02-28T11:15:02.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="从哪本书入坑">从哪本书入坑</h2>
+<ul>
+<li>
+<h4>如果你不经常看奇幻</h4>
+试试《审判者传奇：钢铁心》或《伊岚翠》。
+</li>
+</ul>
+<ul>
+<li>
+<h4>如果你是奇幻爱好者</h4>
+试试《迷雾之子：最后帝国》或《飓光志：王者之路》。
+</li>
+</ul>
+<ul>
+<li>
+<h4>如果你想看言情作品</h4>
+试试《破战者》。
+</li>
+</ul>
+<ul>
+<li>
+<h4>如果你想看搞笑作品</h4>
+试试《阿尔卡特拉兹与黑暗眼镜侠》。
+</li>
+</ul>]]></summary>
+        <content type="html"><![CDATA[<h2 id="从哪本书入坑">从哪本书入坑</h2>
+<ul>
+<li>
+<h4>如果你不经常看奇幻</h4>
+试试《审判者传奇：钢铁心》或《伊岚翠》。
+</li>
+</ul>
+<ul>
+<li>
+<h4>如果你是奇幻爱好者</h4>
+试试《迷雾之子：最后帝国》或《飓光志：王者之路》。
+</li>
+</ul>
+<ul>
+<li>
+<h4>如果你想看言情作品</h4>
+试试《破战者》。
+</li>
+</ul>
+<ul>
+<li>
+<h4>如果你想看搞笑作品</h4>
+试试《阿尔卡特拉兹与黑暗眼镜侠》。
+</li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【情报】“冒险召唤”系统《飓光志》卡牌桌游六月发布]]></title>
         <id>https://botanicaxu.github.io/cosmerenaut/post/CtA-Stormlight/</id>
