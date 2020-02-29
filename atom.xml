@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-02-29T03:46:45.911Z</updated>
+    <updated>2020-02-29T03:48:24.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -16,6 +16,10 @@
         <link href="https://botanicaxu.github.io/cosmerenaut/post/CtA-Stormlight/">
         </link>
         <updated>2020-02-23T01:58:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>由Brotherwise Games公司制作的《飓光志》官方桌面卡牌游戏将于6月24日发布。游戏基于布兰登·桑德森的同名史诗奇幻系列，使用“冒险召唤”（Call To Adventure）系统，可独立游玩，也可并入系统的基础包。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>由Brotherwise Games公司制作的《飓光志》官方桌面卡牌游戏将于6月24日发布。游戏基于布兰登·桑德森的同名史诗奇幻系列，使用“冒险召唤”（Call To Adventure）系统，可独立游玩，也可并入系统的基础包。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【情报】《黑暗之主》推出免费漫画日特刊]]></title>
@@ -45,6 +49,10 @@
         <link href="https://botanicaxu.github.io/cosmerenaut/post/sots/">
         </link>
         <updated>2020-02-01T16:00:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>每年的12月19日，布兰登·桑德森都会发布当年的总结，称为“State of the Sanderson”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>每年的12月19日，布兰登·桑德森都会发布当年的总结，称为“State of the Sanderson”。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[布兰登·桑德森的幻想生涯]]></title>
