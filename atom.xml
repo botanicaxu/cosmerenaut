@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-02-29T14:05:27.191Z</updated>
+    <updated>2020-03-07T02:19:22.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://botanicaxu.github.io/cosmerenaut/images/avatar.png</logo>
     <icon>https://botanicaxu.github.io/cosmerenaut/favicon.ico</icon>
     <rights>All rights reserved 2020, 三界宙旅者</rights>
+    <entry>
+        <title type="html"><![CDATA[【汇总】《飓光志》卷四情报专区]]></title>
+        <id>https://botanicaxu.github.io/cosmerenaut/post/sa4-updates/</id>
+        <link href="https://botanicaxu.github.io/cosmerenaut/post/sa4-updates/">
+        </link>
+        <updated>2020-03-07T01:44:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>布兰登·桑德森在2019年初开始了《飓光志》卷四的写作。依照传统，他在Reddit社区的飓光志看板上不定期更新写作进度，让书迷深入了解他的工作。本文旨在提炼帖子的要点并收集来自各个平台的零散情报，全程跟进本书的创作内幕。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>布兰登·桑德森在2019年初开始了《飓光志》卷四的写作。依照传统，他在Reddit社区的飓光志看板上不定期更新写作进度，让书迷深入了解他的工作。本文旨在提炼帖子的要点并收集来自各个平台的零散情报，全程跟进本书的创作内幕。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【情报】“冒险召唤”系统《飓光志》卡牌桌游六月发布]]></title>
         <id>https://botanicaxu.github.io/cosmerenaut/post/CtA-Stormlight/</id>
