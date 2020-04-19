@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-04-19T12:27:46.040Z</updated>
+    <updated>2020-04-19T12:29:54.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -16,6 +16,10 @@
         <link href="https://botanicaxu.github.io/cosmerenaut/post/alternate-stormlight-symbol/">
         </link>
         <updated>2020-04-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>柔刹的太空时代简化版符号公布，设计元素简化成“剑—圆环—焦点—基于三界宙符号的四道光”，取代了原先“全能之主的双瞳眼—十元素—剑”的复杂图形，设计初衷是Tor出版社针对《飓光志》卷四的营销要求，造型变得更易于识别，但旧符号仍将与新符号共用。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>柔刹的太空时代简化版符号公布，设计元素简化成“剑—圆环—焦点—基于三界宙符号的四道光”，取代了原先“全能之主的双瞳眼—十元素—剑”的复杂图形，设计初衷是Tor出版社针对《飓光志》卷四的营销要求，造型变得更易于识别，但旧符号仍将与新符号共用。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【汇总】《飓光志》卷四情报专区]]></title>
