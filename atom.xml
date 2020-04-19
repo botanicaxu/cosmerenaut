@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2020-04-19T03:52:27.074Z</updated>
+    <updated>2020-04-19T12:27:46.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://botanicaxu.github.io/cosmerenaut/images/avatar.png</logo>
     <icon>https://botanicaxu.github.io/cosmerenaut/favicon.ico</icon>
     <rights>All rights reserved 2020, 三界宙旅者</rights>
+    <entry>
+        <title type="html"><![CDATA[【情报】柔刹的太空时代简化版符号公布]]></title>
+        <id>https://botanicaxu.github.io/cosmerenaut/post/alternate-stormlight-symbol/</id>
+        <link href="https://botanicaxu.github.io/cosmerenaut/post/alternate-stormlight-symbol/">
+        </link>
+        <updated>2020-04-07T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【汇总】《飓光志》卷四情报专区]]></title>
         <id>https://botanicaxu.github.io/cosmerenaut/post/sa4-updates/</id>
@@ -107,17 +114,6 @@
         <summary type="html"><![CDATA[<p><strong>三界宙（Cosmere）</strong>，又译寰宇，布兰登·桑德森笔下的虚构宇宙，他的原创史诗奇幻作品均发生在该体系内，目前包括《伊岚翠》《迷雾之子》《破战者》《飓光志》《白沙》和《奥秘全书》（Arcanum Unbounded）中所收录的全部内容。[^earth]</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>三界宙（Cosmere）</strong>，又译寰宇，布兰登·桑德森笔下的虚构宇宙，他的原创史诗奇幻作品均发生在该体系内，目前包括《伊岚翠》《迷雾之子》《破战者》《飓光志》《白沙》和《奥秘全书》（Arcanum Unbounded）中所收录的全部内容。[^earth]</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅者指南]]></title>
-        <id>https://botanicaxu.github.io/cosmerenaut/post/guide/</id>
-        <link href="https://botanicaxu.github.io/cosmerenaut/post/guide/">
-        </link>
-        <updated>2020-01-31T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>星河中的旅者，欢迎来到三界宙尽头的餐馆小坐！你将通过这个中转站去往下一个目的地，继续探索布兰登·桑德森的异想世界。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>星河中的旅者，欢迎来到三界宙尽头的餐馆小坐！你将通过这个中转站去往下一个目的地，继续探索布兰登·桑德森的异想世界。</p>
 ]]></content>
     </entry>
 </feed>
