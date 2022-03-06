@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://botanicaxu.github.io/cosmerenaut/</id>
     <title>三界宙旅者</title>
-    <updated>2021-05-02T02:33:11.535Z</updated>
+    <updated>2022-03-06T02:48:03.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://botanicaxu.github.io/cosmerenaut/"/>
     <link rel="self" href="https://botanicaxu.github.io/cosmerenaut/atom.xml"/>
     <subtitle>&lt;b&gt;美国幻想作家布兰登·桑德森的中文情报站&lt;/b&gt;</subtitle>
     <logo>https://botanicaxu.github.io/cosmerenaut/images/avatar.png</logo>
     <icon>https://botanicaxu.github.io/cosmerenaut/favicon.ico</icon>
-    <rights>All rights reserved 2021, 三界宙旅者</rights>
+    <rights>All rights reserved 2022, 三界宙旅者</rights>
     <entry>
-        <title type="html"><![CDATA[柔刹百科：光辉骑士团篇]]></title>
+        <title type="html"><![CDATA[【资料】柔刹百科：光辉骑士团篇]]></title>
         <id>https://botanicaxu.github.io/cosmerenaut/post/knights-radiant/</id>
         <link href="https://botanicaxu.github.io/cosmerenaut/post/knights-radiant/">
         </link>
@@ -22,7 +22,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【TorCon 2020】布兰登·桑德森对话克里斯托弗·鲍里尼]]></title>
+        <title type="html"><![CDATA[【访谈】TorCon 2020：布兰登·桑德森对话克里斯托弗·鲍里尼]]></title>
         <id>https://botanicaxu.github.io/cosmerenaut/post/torcon-2020/</id>
         <link href="https://botanicaxu.github.io/cosmerenaut/post/torcon-2020/">
         </link>
